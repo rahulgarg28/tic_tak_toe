@@ -82,4 +82,7 @@
       flex-direction: column;
       gap: 4rem;
     }
+    .hide {
+      display: none;
+    }
   }
